@@ -46,7 +46,7 @@ function countDown() {
     if(currentTime == 0){
         clearInterval(countDownTimerId)
         clearInterval(timerId)
-        alert('Game Over! your finals score is ' + result)
+        alert('Game Over! You tickled the donut ' + result + " times!")
     }
 
 }

@@ -9,10 +9,11 @@
     height: 200px;
     width: 200px;
     border: solid black 1px;
+    background-color: #febaee;
 }
 
 
 .mole{
-    background-image: url('face.jpg');
+    background-image: url('donut.gif');
     background-size: cover;
 }
